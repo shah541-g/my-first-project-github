@@ -122,7 +122,7 @@ The `index.html` file defines the structure of the webpage using HTML. It create
     </div>
 </body>
 </html>
-
+```
 # Style.css Documentation
 
 The `style.css` file provides the styling for a custom browser homepage defined in an associated `index.html` file. It uses CSS flexbox for layout, Google Fonts for typography, and visual effects like shadows and rounded corners to create a modern, centered design with a browser logo, search bar, and pinned website links.
